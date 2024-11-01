@@ -2,8 +2,6 @@
 # LLEN-Net
 A Transformer-Enhanced Dual-Channel Fourier Framework for Low-Light Image Restoration
 
-![P_com](./f_result/3.png)
-
 
 ## 💡 News 新闻
 
@@ -21,7 +19,11 @@ A Transformer-Enhanced Dual-Channel Fourier Framework for Low-Light Image Restor
 
 ## 🖼 Visual Comparison 视觉比较
 
-![P_com1](./f_result/1.png)
+![P_com1](./src/LOL1-2.png)
+![P_com2](./src/SDSD.png)
+![P_com3](./src/SD_SMID.png)
+![P_com4](./src/target_detection2.png)
+![P_com5](./src/wujizhunbijiao.png)
 
 
 ## 🧾 Weights and Results 
