@@ -21,7 +21,7 @@ A Transformer-Enhanced Dual-Channel Fourier Framework for Low-Light Image Restor
 
 ![P_com1](./src/LOL1-2.png)
 ![P_com2](./src/SDSD.png)
-![P_com3](./src/SD_SMID.png)
+![P_com3](./src/SID_SMID.png)
 ![P_com4](./src/target_detection2.png)
 ![P_com5](./src/wujizhunbijiao.png)
 
